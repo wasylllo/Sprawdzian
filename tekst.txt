@@ -1,0 +1,8 @@
+cd documents
+mkdir Spr_git_Bartłomiej_Wasyliszyn
+cd Spr_git_Bartłomiej_Wasyliszyn
+git init
+touch tekst.txt
+git status
+git add .
+git commit -m "Początek projektu"
