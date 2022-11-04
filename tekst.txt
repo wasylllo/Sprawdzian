@@ -6,3 +6,5 @@ touch tekst.txt
 git status
 git add .
 git commit -m "Początek projektu"
+
+Punkt 6  04.11.2022  13.22
