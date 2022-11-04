@@ -1,0 +1,9 @@
+diff --git a/wariant2.txt b/wariant2.txt
+index bdbaf78..717aae4 100644
+--- a/wariant2.txt
++++ b/wariant2.txt
+@@ -1 +1 @@
+-wersja pierwsza
+\ No newline at end of file
++Wersja główna
+\ No newline at end of file
